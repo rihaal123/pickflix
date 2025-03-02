@@ -3,6 +3,8 @@ import requests
 import sqlite3
 from contextlib import closing
 
+# Code Starts below
+
 # --- Database Setup ---
 DATABASE = 'users.db'
 
